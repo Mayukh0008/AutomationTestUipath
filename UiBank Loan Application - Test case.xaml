@@ -109,18 +109,19 @@
       <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="UiBank_Loan_Application___Test_case" sap:VirtualizedContainerService.HintSize="925.2,2412.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="UiBank_Loan_Application___Test_case" sap:VirtualizedContainerService.HintSize="925.2,2510.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="... Given" sap:VirtualizedContainerService.HintSize="552,121.6" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence DisplayName="... Given" sap:VirtualizedContainerService.HintSize="552,257.6" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
+      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Trace" Message="[&quot;Testing has Started&quot;]" />
     </Sequence>
     <Sequence DisplayName="... When" sap:VirtualizedContainerService.HintSize="552,259.2" sap2010:WorkflowViewState.IdRef="Sequence_3">
       <sap:WorkflowViewStateService.ViewState>
@@ -139,19 +140,19 @@
         </ui:InvokeWorkflowFile.Arguments>
       </ui:InvokeWorkflowFile>
     </Sequence>
-    <Sequence DisplayName="... Then" sap:VirtualizedContainerService.HintSize="552,2008.8" sap2010:WorkflowViewState.IdRef="Sequence_4">
+    <Sequence DisplayName="... Then" sap:VirtualizedContainerService.HintSize="552,1970.4" sap2010:WorkflowViewState.IdRef="Sequence_4">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome UiBank-Loan result" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="518.4,1925.6" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="8470ee76-12fc-43f3-95f5-b122b8253908" Version="V2">
+      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome UiBank-Loan result" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="518.4,1887.2" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="8470ee76-12fc-43f3-95f5-b122b8253908" Version="V2">
         <uix:NApplicationCard.Body>
           <ActivityAction x:TypeArguments="x:Object">
             <ActivityAction.Argument>
               <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
             </ActivityAction.Argument>
-            <Sequence sap:VirtualizedContainerService.HintSize="484.8,1645.6" sap2010:WorkflowViewState.IdRef="Sequence_6">
+            <Sequence sap:VirtualizedContainerService.HintSize="484.8,1647.2" sap2010:WorkflowViewState.IdRef="Sequence_6">
               <Sequence.Variables>
                 <Variable x:TypeArguments="x:String" Name="Output" />
               </Sequence.Variables>
