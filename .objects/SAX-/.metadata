@@ -1,0 +1,11 @@
+﻿{
+  "Name": "UIBank Loan Application",
+  "Type": "App",
+  "Id": "SAX-OK1S5EGWsbqeVej06g",
+  "Reference": "EzUwytHvokOAw7HY0hSqWQ/SAX-OK1S5EGWsbqeVej06g",
+  "Created": "2025-07-10T05:43:24.3132876Z",
+  "Updated": "2025-07-10T05:43:24.3132876Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

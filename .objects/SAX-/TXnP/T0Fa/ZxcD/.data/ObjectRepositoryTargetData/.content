@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bl1NBHYLREue2fMxJ5ZqMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/apply" CVScreenId="c2279691-2af4-4376-b0f5-7a42635966db" CvElementArea="640, 555, 637, 71" CvType="InputBox" DesignTimeRectangle="641, 557, 636, 68" DesignTimeScaleFactor="1.25" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='term' tag='SELECT' type='number' class='form-control uibank-input select-color ng-untouched ng-pristine ng-invalid' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="8ae31ded-bcc1-45a0-8a6b-18cb9b90a1a2" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan Apply' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c2279691-2af4-4376-b0f5-7a42635966db" CvTextArea="639, 535, 74, 13" CvTextArgument="Loan Term" CvType="Text" DesignTimeRectangle="641, 533, 73, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Loan Term' tag='LABEL' type='' class='uibank-label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Loan Term' /&gt;" Guid="ab8156ad-34fa-46a3-9df4-897fc590001a" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAE0AAAAcCAYAAAAk2zLiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAALsSURBVGhD7ZZBa2IxEMf9TPs9+gEWeu+pp+5J8NLD4kUPBdmLp22hCAVhEaTQHgpeqiCWIigFKVhBsIIIIrVJZv9j8jTv+VptWHUPCfzBTCaZ5Jd5ExPvh9/I62vy0BzkoTnIQ3OQh+YgD81BHpqDFtBk/YVoUCFpDe5bsvNGNI3Rnve5hNYcE02q/xU0kUmS+MW6JUVE6t70z45IxPjvSptBS6VJtZGJ85sek2oWSabCPiKXJ9V51T7jDqmbNIkrHLZdNAfMkerC/sdaa/JKqgI/a514FTW0u9Ux8Rtj3SDuS2S9IGYS51t+SbIGWy1PstLCHoIzFUieYE7mfLneEH6l41A81npoGWxqhh2PWthQGaqQmqA/65DMRHwmCGL7jBB8saY+OM0Qp31L8rqg4XGrn4Zjrigemris6vldwCjkSN4/YH3uBxcVxASAEfZmLlD2jG34QAr7WMzroT8BwAaS4hpzu9grvZEqHoTiroU2ryts51sI7CdZDaWd0z7P+P2RTxRa5zyUWbJt1rdsq4qDliQ1gvEpH87UCwaJg15x38R8LoRjMrRpK7RfUULWcWvYF3hMaggbLmFpWwvNHPwxbdm05v5j9v/E59FeM+7g0F0HVmStbVtR3FwD5Ikz21Z1nvXa18yrhDNlDq0XBqF9kWWXts2cM+K7GbR60rJpLf0/9hH11c/zn0Mb4LPjuhWVlWnRmJ9Cu7BtTtCOSPURIJLe87Qd6MAi8OmXIz7GvjVoKPJTGGuRQp3OosCjJuW4vxdoyJYiiiTXiFqWBNeA1CnqEDLICiDKXA9Qm/gF4leVfZrw4WK7NWjYM2fyDC9w0fwF4Ve+b9fgXUCLtCCYKOk6sWhTPO2hp/iAxA3ACTPOjZ/3CoBsEdr74XeSDbzAdtwxCnzwqm8b2iYSP3+QiPw/i0pk4GO/ojsRLu1sd3G/BM1Ly0NzkIfmIA/NQR6agzw0B3loDvLQHLSAlkgkvDaVDc23TRrRXwm5sSQmsWnWAAAAAElFTkSuQmCC" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="f753aeaff12b4d1c4974d581d88061a1.png" xmlns="">0smk6uVaHlEO7BOeGVq3VEw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
